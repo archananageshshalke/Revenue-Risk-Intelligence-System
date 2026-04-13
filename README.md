@@ -49,7 +49,7 @@ This system addresses the problem through a structured analytics pipeline:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard/dashboard_preview.png)
+![Dashboard](dashboard/Revenue_Leakage_Dashboard_preview.png)
 
 ---
 
